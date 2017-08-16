@@ -1,5 +1,5 @@
 
-# QuickWeb Application Structure
+# QuickWeb Application Structure v2.0
 
 ## Startup
 During application startup, content from the 'webroot' directory will be scanned, and directories/files will be mapped to features and urls per the following rules.
